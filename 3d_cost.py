@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from matplotlib import cm
 from matplotlib.ticker import LinearLocator, FormatStrFormatter
 import numpy as np
-
+# deneme
 
 fig = plt.figure()
 ax = fig.gca(projection='3d')
